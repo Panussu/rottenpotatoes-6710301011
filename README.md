@@ -2,10 +2,9 @@
 
 Template repository for Lab L1 (310-2205 Software Engineering, semester 2/2569).
 
-![ci](https://github.com/<you>/<repo>/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/Panussu/rottenpotatoes-6710301011/actions/workflows/ci.yml/badge.svg)
 
-แก้ `<you>/<repo>` ในบรรทัดบนเป็นชื่อ GitHub และชื่อ repository ของคุณ
-(Replace `<you>/<repo>` above with your GitHub user and repository name.)
+Repository: https://github.com/Panussu/Lab1-SoftwareDev
 
 ## เริ่มที่นี่ (Start here)
 
@@ -45,9 +44,9 @@ src/test/java/.../GreetingTest.java  test ตัวอย่าง (JUnit 6 + As
 
 Lab L1 checklist.
 
-- [ ] build เขียว: `./mvnw -B verify` ผ่านบนเครื่องของคุณ (build is green)
-- [ ] commit แดง: เพิ่ม `FizzBuzzTest` แล้ว commit ตอนที่ test ยังไม่ผ่าน (red commit)
-- [ ] commit เขียว: เขียน `FizzBuzz` ให้ test ผ่าน แล้ว commit (green commit)
+- [x] build เขียว: `./mvnw -B verify` ผ่านบนเครื่องของคุณ (build is green)
+- [x] commit แดง: เพิ่ม `FizzBuzzTest` แล้ว commit ตอนที่ test ยังไม่ผ่าน (red commit)
+- [x] commit เขียว: เขียน `FizzBuzz` ให้ test ผ่าน แล้ว commit (green commit)
 - [ ] push แล้ว CI เขียวบน GitHub (push and CI is green)
 - [ ] กรอก `docs/L1.md` ครบ (lab passport filled in)
 
